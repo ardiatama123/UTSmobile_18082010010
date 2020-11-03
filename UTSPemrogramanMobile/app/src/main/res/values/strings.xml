@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UTS Pemrograman Mobile</string>
+    <string name="nama_fakultas">nama_fakultas</string>
+    <string name="descripsi">descripsi</string>
+    <string name="descripsi_singkat">descripsi_singkat</string>
+    <string name="profile_upn">profile_upn</string>
+</resources>
